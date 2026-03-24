@@ -1,4 +1,4 @@
-# KPI Performance Dashboard (Power BI)
+# KPI Performance Dashboard
 
 ## Project Scope
 
@@ -7,6 +7,11 @@ This project consists of a Power BI dashboard designed to monitor and evaluate p
 It aims to provide a clear and organized view of performance across different dimensions, supporting data-driven analysis and decision-making.
 
 The solution is based on a real organization selected as the project’s target context, while the dataset used for analysis was created for this project.
+
+---
+
+## Tech Stack
+Power BI | Power Query | Data Modeling | DAX Measures | Visualization • Google Sheets
 
 ---
 
