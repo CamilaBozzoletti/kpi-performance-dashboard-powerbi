@@ -20,6 +20,8 @@ The solution was developed in Power BI, leveraging:
 - Creation of DAX measures for KPI calculation
 - Development of interactive visualizations to explore trends and comparisons
 
+Additionally, data preparation was performed using Power Query, including data cleaning, transformation, and structuring processes. The dataset was managed in Google Sheets and used as a data source for the dashboard.
+
 ---
 
 ## Key Insights
